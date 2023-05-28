@@ -41,6 +41,8 @@ Demonstrated proficiency in gathering domain knowledge and understanding key bus
 ## Results & Evaluation:
 ![Alt Text](ScreenRecord.gif)
 
+(Actual gif of executed macro.)
+
 Achieved remarkable time savings and increased productivity by optimizing the reporting process. The report now generates within an impressive timeframe of 2-6 seconds, replacing a laborious manual effort that previously took up to 25 minutes per report. This daily automation resulted in significant time savings of nearly 2.5 hours per week and an astounding 130 man-hours annually. By eliminating human error and enhancing accuracy, the solution not only lightened the workload for the team but also ensured more reliable outcomes. Furthermore, integrated features to create a new file, save it in the designated location, and generate an email with the attached report, subject name, and email body for seamless distribution.
 
 
